@@ -1,13 +1,13 @@
-package com.parcs;
+package com.magasin;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
 
 @SpringBootApplication
-public class ParcsApplication {
+public class MagasinApplication {
 
 	public static void main(String[] args) {
-		SpringApplication.run(ParcsApplication.class, args);
+		SpringApplication.run(MagasinApplication.class, args);
 	}
 
 }
