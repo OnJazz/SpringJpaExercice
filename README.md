@@ -1,2 +1,2 @@
 # SpringJpaExercice
-Simple access to mySQL database
+This project is a quick view of accesing to mySQL database from springBoot
